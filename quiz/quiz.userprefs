@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C966E9DA-9F39-333F-F8B5-62E2CAA7EC88}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/menuButtons.cs">
+    <Files>
+      <File FileName="Assets/quiz.cs" Line="339" Column="36" />
+      <File FileName="quiz.csproj" Line="1" Column="1" />
+      <File FileName="Assets/menuButtons.cs" Line="22" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.quiz PreferredExecutionTarget="Unity.Editor" />
+</Properties>
