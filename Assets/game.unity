@@ -1679,6 +1679,22 @@ Prefab:
       propertyPath: m_FontData.m_MaxSize
       value: 17
       objectReference: {fileID: 0}
+    - target: {fileID: 1369782208253314, guid: caf582581603fa74485f408ae6a26eae, type: 2}
+      propertyPath: m_TagString
+      value: optionButtons
+      objectReference: {fileID: 0}
+    - target: {fileID: 1020072206662524, guid: caf582581603fa74485f408ae6a26eae, type: 2}
+      propertyPath: m_TagString
+      value: optionButtons
+      objectReference: {fileID: 0}
+    - target: {fileID: 1926328835795052, guid: caf582581603fa74485f408ae6a26eae, type: 2}
+      propertyPath: m_TagString
+      value: optionButtons
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184933687310754, guid: caf582581603fa74485f408ae6a26eae, type: 2}
+      propertyPath: m_TagString
+      value: optionButtons
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: caf582581603fa74485f408ae6a26eae, type: 2}
   m_IsPrefabParent: 0
