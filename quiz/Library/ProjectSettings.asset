@@ -627,9 +627,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 8781841f-d0cf-456a-8679-9da4990f44c2
-  projectName: quiz
-  organizationId: ph0enix3
+  cloudProjectId: 3a122bd2-287a-4074-90c7-34366b07a0a8
+  projectName: Reiksmingiausios Idejos
+  organizationId: ereieig
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
