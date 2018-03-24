@@ -375,7 +375,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -571,7 +571,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1315,7 +1315,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021,
+      objectReference: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f,
         type: 3}
     - target: {fileID: 114788491967979658, guid: caf582581603fa74485f408ae6a26eae,
         type: 2}
@@ -1326,7 +1326,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021,
+      objectReference: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f,
         type: 3}
     - target: {fileID: 114220867689841630, guid: caf582581603fa74485f408ae6a26eae,
         type: 2}
@@ -1337,7 +1337,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021,
+      objectReference: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f,
         type: 3}
     - target: {fileID: 114997899811339360, guid: caf582581603fa74485f408ae6a26eae,
         type: 2}
@@ -1348,7 +1348,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 701d697949bbb6b4aaaa6ec64103a021,
+      objectReference: {fileID: 21300000, guid: 76f9b50620c434e99ad9900d906f6f1f,
         type: 3}
     - target: {fileID: 114312357548155912, guid: caf582581603fa74485f408ae6a26eae,
         type: 2}
@@ -1958,7 +1958,7 @@ Prefab:
         type: 2}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 9668d87e142764e6b9c122a655b7a65c,
+      objectReference: {fileID: 21300000, guid: 2dd04949ba64c4184a80cc04412fb863,
         type: 3}
     - target: {fileID: 224472753477106700, guid: db57fdaebd9371447ad6177e7826c5a2,
         type: 2}
